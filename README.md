@@ -18,3 +18,6 @@ py hieu.py (comps name)
 hieuui.py (GUI version): Run as admin command prompt
 py hieuui.py
 
+install dependencies: 
+cd (folder contain this repo)
+py -m pip install -r requirements.txt

@@ -1,0 +1,7 @@
+Pillow
+pyautogui
+keyboard
+textblob
+pyqt5-tools
+pytesseract
+mss
